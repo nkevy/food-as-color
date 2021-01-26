@@ -12,5 +12,4 @@ Contains
 ---------
 1. palate - UI a react app
 2. data - Python for backed server and psql management
-3. node-modules - node modules for the palate react app
 4. package-lock.json - list of packages, dependencies required for palate to run
